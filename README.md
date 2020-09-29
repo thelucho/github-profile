@@ -1,4 +1,4 @@
-# github-profile
+# Github profile finder build in Vue 2
 
 ## Project setup
 ```
